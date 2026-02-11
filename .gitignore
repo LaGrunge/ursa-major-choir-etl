@@ -224,3 +224,6 @@ logs/
 # Notebooks outputs (if you keep notebooks)
 *.ipynb
 
+# Google service account keys
+ursa-major-choir-etl-*.json
+
